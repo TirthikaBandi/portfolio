@@ -1,6 +1,51 @@
+/*css of header*/
+
 header{
-    border: 1px;
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
 }
-body{
-    color: gray;
+
+#name{
+    width:30%;
+    float:left;
+}
+.links{
+    width:50%;
+    float:left;
+}
+
+.social_media{
+    width:20%;
+    float:right;
+}
+
+.home_section{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.about_section{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.skills_section{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.education_section{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
+}
+
+.project_section, .contact_section, footer{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 0px;
 }
